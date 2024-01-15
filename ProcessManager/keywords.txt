@@ -1,0 +1,20 @@
+ProcessUnit KEYWORD1
+ProcessManager KEYWORD1
+ProcessHandler KEYWORD1
+
+getCapacity KEYWORD2
+getFree KEYWORD2
+getInterval KEYWORD2
+checkProcess KEYWORD2
+registerProcess KEYWORD2
+unregisterProcess KEYWORD2
+unregisterAllProcess KEYWORD2
+
+getIndex KEYWORD2
+getRegister KEYWORD2
+setUnregister KEYWORD2
+setActive KEYWORD2
+setInterval KEYWORD2
+getInterval KEYWORD2
+
+handler KEYWORD2
